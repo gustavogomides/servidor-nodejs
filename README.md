@@ -9,3 +9,10 @@ npm install
 ```bash
 npm start
 ```
+```bash
+http://localhost:3000/get
+```
+
+```bash
+http://localhost:3000/post
+```
